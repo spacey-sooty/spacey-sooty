@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skankhunt49
 - 👀 I’m interested in physics and robotics.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently bad at C++ and Python, but I am learning more every time I code
 - 💞️ I’m looking to collaborate on anything cool.
 
 <!---
