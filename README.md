@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kelmscottcoder
 - 👀 I’m interested in physics and robotics.
 - 🌱 I’m currently bad at C++ and Python, but I am learning more every time I code
+- also learning web development
 - 💞️ I’m looking to collaborate on anything cool.
 
 <!---
