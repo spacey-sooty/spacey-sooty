@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kelmscottcoder
 - 👀 I’m interested in physics and robotics.
-- 🌱 I’m currently bad at C++ and Python, but I am learning more every time I code
-- also learning web development
+- 🌱 I’m currentlly coding C++ and Python, but I am learning more every time I code
+- I am learning Typescript for web development and also rust because why not 🤷‍♀️
 - 💞️ I’m looking to collaborate on anything cool.
 
 <!---
