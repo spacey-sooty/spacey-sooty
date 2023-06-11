@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @kelmscottcoder
-- 👀 I’m interested in physics and robotics.
-- 🌱 I’m currentlly coding C++ and Python, but I am learning more every time I code
-- I am learning Typescript for web development and also rust because why not 🤷‍♀️
-- 💞️ I’m looking to collaborate on anything cool.
-- to get in contact email me at spacey_sooty@outlook.com or message me on discord spacey_sooty#8671
-
-<!---
-skankhunt49/skankhunt49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html>
+<body>
+<h1> Hello World, I'm Isaac Turner! </h1>
+<p id="font1"> I am a programmer for FRC Team 4788! I code websites and robots! I am interested in robotics, physics, engineering and computer science. I love collaborating with people on projects and am always down to build something cool. </p>
+<h2> My Tools </h2>
+<ul>
+<li> HTMl + CSS </li>
+<li> C++ </li>
+<li> Javascript/Typescript </li>
+<li> Python </li>
+<li> Batch and Bash Script </li>
+</ul>
+<h2> What am I learning? </h2>
+<p> Along with all the skills which I learn more and more about every time I use them I am also learning : </p>
+<ul> <li> Rust </li> <li> C </li> <li> SASS </li> </ul>
+<h2 font="font1"> Where can you contact me? </h2>
+<p> If you wanna collaborate with me on anything then you can contact me at my email spacey_sooty@outlook.com or message me on discord spacey_sooty#8671</p>
+</body>
+</html>
