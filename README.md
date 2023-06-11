@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html>
-<style>
-  #font1 {
-    font-size: 125%;
-  }
-</style>
 <body>
 <h1> Hello World, I'm Isaac Turner! </h1>
 <p id="font1"> I am a programmer for FRC Team 4788! I code websites and robots! I am interested in robotics, physics, engineering and computer science. I love collaborating with people on projects and am always down to build something cool. </p>
