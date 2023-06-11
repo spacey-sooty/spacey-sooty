@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
 <style>
   #font1 {
     font-size: 125%;
   }
 </style>
-</head>
 <body>
 <h1> Hello World, I'm Isaac Turner! </h1>
 <p id="font1"> I am a programmer for FRC Team 4788! I code websites and robots! I am interested in robotics, physics, engineering and computer science. I love collaborating with people on projects and am always down to build something cool. </p>
@@ -22,6 +20,6 @@
 <p> Along with all the skills which I learn more and more about every time I use them I am also learning : </p>
 <ul> <li> Rust </li> <li> C </li> <li> SASS </li> </ul>
 <h2 font="font1"> Where can you contact me? </h2>
-<p> If you wanna collaborate with me on anything then you can contact me at my email <a href="spacey_sooty@outlook.com"> spacey_sooty@outlook.com </a> or message me on discord spacey_sooty#8671</p>
+<p> If you wanna collaborate with me on anything then you can contact me at my email spacey_sooty@outlook.com or message me on discord spacey_sooty#8671</p>
 </body>
 </html>
