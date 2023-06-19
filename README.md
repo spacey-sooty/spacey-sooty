@@ -5,7 +5,7 @@
 <p id="font1"> I am a programmer for FRC Team 4788! I code websites and robots! I am interested in robotics, physics, engineering and computer science. I love collaborating with people on projects and am always down to build something cool. </p>
 <h2> My Tools </h2>
 <ul>
-<li> HTMl + CSS </li>
+<li> HTML + CSS </li>
 <li> C++ </li>
 <li> Javascript/Typescript </li>
 <li> Python </li>
