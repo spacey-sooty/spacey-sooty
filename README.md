@@ -12,6 +12,7 @@
 <li> Javascript/Typescript </li>
 <li> Python </li>
 <li> Batch and Bash Script </li>
+<li> Lua </li>
 </ul>
 <h2> What languages I learning? </h2>
 <p> Along with all the skills which I learn more and more about every time I use them I am also learning : </p>
