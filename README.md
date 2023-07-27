@@ -15,7 +15,7 @@
 <li> Lua </li>
 <li> Powershell </li>
 </ul>
-<h2> What languages I learning? </h2>
+<h2> What languages am I learning? </h2>
 <p> Along with all the skills which I learn more and more about every time I use them I am also learning : </p>
 <ul> <li> Dart </li> <li> C </li> </ul>
 <h2 font="font1"> Where can you contact me? </h2>
