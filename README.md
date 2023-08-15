@@ -13,7 +13,7 @@
 </p>
 </p>
 <div align="center" style="font-size: 25px;font-weight: 900;">
-  <a href="https://github.com/starlitnightsky">
+  <a href="https://github.com/spacey-sooty">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=spacey-sooty&theme=dark" />
   </a>
 </div>
