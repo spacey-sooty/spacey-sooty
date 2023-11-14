@@ -1,6 +1,8 @@
 # Hi I'm Isaac Turner
  I am programming lead [@CurtinFRC](https://github.com/CurtinFRC).
  
+ I build high performance embedded systems in languages including Rust and C++.
+ 
  I use Neovim btw
 
 <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacey-sooty&langs_count=10&theme=dark&layout=compact" />
